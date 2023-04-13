@@ -1,8 +1,5 @@
-<<<<<<< HEAD
 # dariohrvy2.github.io  
-=======
->>>>>>> master
-   <!DOCTYPE HTML>
+      <!DOCTYPE HTML>
       <html>
 <head>
 
@@ -11,10 +8,6 @@
              </head>
 <body>
 
-<<<<<<< HEAD
                      Hi, I'm Darius!
-=======
-                     Hello, World!
->>>>>>> master
              </body>
 </html>
